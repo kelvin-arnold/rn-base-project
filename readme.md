@@ -39,5 +39,6 @@ Para rodar o projeto é necessario ter instalado as seguintes librarias e softwa
 - Styled Components [link](https://styled-components.com)
 - Husky [link](https://typicode.github.io/husky/#/)
 - Lint Staged [link](https://github.com/okonet/lint-staged)
-- Commint Lint [link](https://commitlint.js.org/#/)
+- Commit Lint [link](https://commitlint.js.org/#/)
+- Commit Lint Jira [link](https://github.com/Gherciu/commitlint-jira)
 - Yup [link](https://github.com/jquense/yup)
