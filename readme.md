@@ -6,10 +6,10 @@ Para rodar o projeto é necessario ter instalado as seguintes librarias e softwa
 
 ### Librarias
 
-- **react-native**, seguir passo a passo [check react native her](https://reactnative.dev/docs/environment-setup)
-- **node** version `12.13.0` ou superior [install node her](https://nodejs.org/en/)
-- **yarn** version `1.22.10` ou superior [Install yarn her](https://yarnpkg.com)
-- **cocoapods** version `1.10.1` ou superior [install cocoapods her](https://cocoapods.org)
+- **react-native**, seguir passo a passo [link](https://reactnative.dev/docs/environment-setup)
+- **node** version `12.13.0` ou superior [link](https://nodejs.org/en/)
+- **yarn** version `1.22.10` ou superior [link](https://yarnpkg.com)
+- **cocoapods** version `1.10.1` ou superior [link](https://cocoapods.org)
 
 ### Software
 
@@ -18,16 +18,23 @@ Para rodar o projeto é necessario ter instalado as seguintes librarias e softwa
 
 ### Opcionais
 
-- nvm para administrar multiplas versões de node na maquina [install nvm her](https://github.com/nvm-sh/nvm)
-- flipper como ferramenta de debug [install flipper her](https://fbflipper.com)
+- nvm para administrar multiplas versões de node na maquina [link](https://github.com/nvm-sh/nvm)
+- flipper como ferramenta de debug [link](https://fbflipper.com)
 
 ## Commandos
+
+Executar os comandos na ordem seguinte
 
 - `yarn install:clean` instala as dependencias do projeto de forma limpa
 - `yarn install:ios` instala as dependencias do projeto ios
 - `yarn start` inicia o serviço
 - `yarn start:ios` inicia o projeto ios no iphone 12 (emulador)
 - `yarn start:android` inicia o projeto android (precisa de ter um device fisico conectado ou um emulador rodando)
+
+  ### Observacao
+
+- Caso aconteca algum erro na hora de executar os comandos, verifique se as dependencias foram atualizadas com sucesso
+- Se acontecer algum problema na hora de rodar o projeto no emulador, tente executar o projeto no IDE correspondete
 
 ## Documentação
 
