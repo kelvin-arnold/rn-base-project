@@ -1,0 +1,4 @@
+# Ignore artifacts:
+./android
+./ios
+./node_modules
